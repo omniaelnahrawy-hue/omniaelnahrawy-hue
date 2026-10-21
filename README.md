@@ -1,5 +1,12 @@
 ## Hi there 👋
+# Hi, I'm Omnia 👋
 
+## About Me
+- 🌱 I'm currently learning Git and version control
+- 💻 I'm interested in cloud computing, Networking
+
+## Projects
+- [git-learning-log](https://github.com/your-github-username/git-learning-log) - My first Git project tracking a learning log
 <!--
 **omniaelnahrawy-hue/omniaelnahrawy-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
