@@ -23,6 +23,7 @@ I'm a network engineer with 3+ years of experience in enterprise VPN, connectivi
 - AWS Certified Cloud Practitioner
 - Fortinet Certified Associate Cybersecurity
 
+<!--
 ## 📂 Featured Projects
 
 | Project | Description | Tools |
@@ -32,6 +33,9 @@ I'm a network engineer with 3+ years of experience in enterprise VPN, connectivi
 | [Project name](link-to-repo) | One-line description of what you built | Docker, Git |
 
 > More projects are documented on my [NextWork profile](link-to-your-nextwork-profile).
+-->
+
+My projects are documented on my [NextWork profile](https://nextwork.ai/portfolio/omnia-elnahrawy).
 
 ## 📫 Let's connect
 
