@@ -7,16 +7,16 @@ I'm a network engineer with 3+ years of experience in enterprise VPN, connectivi
 ## 🔭 What I'm working on
 
 - Preparing for the **AWS Solutions Architect Associate** exam
-- Building hands-on AWS projects (EC2, S3, VPC, IAM, RDS, CloudWatch)
+- Building hands-on AWS projects (EC2, S3, VPC, IAM)
 - Practicing DevOps foundations: Git, GitHub, Docker, Shell scripting
 
 ## 🛠️ Skills
 
-**Cloud:** AWS (EC2, S3, VPC, IAM, RDS, CloudWatch)  
+**Cloud:** AWS (EC2, S3, VPC, IAM, Lambda)  
 **Virtualization:** VMware ESXi 8.0  
-**DevOps & Scripting:** Git, GitHub, Docker, Python, Bash/Shell  
+**DevOps & Scripting:** Git, GitHub, Docker, Bash/Shell  
 **Operating Systems:** Linux/Unix, Windows Server  
-**Networking:** BGP, OSPF, VPN, Load Balancing, FortiGate, Juniper, SIP Trunk
+**Networking:** Routing, switching, Load Balancing, FortiGate, SIP Trunk
 
 ## 🏅 Certifications
 
