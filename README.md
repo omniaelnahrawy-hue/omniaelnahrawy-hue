@@ -1,4 +1,4 @@
-# Hi, I'm Omnia El-Nahrawy 👋
+# Hi, I'm Omnia 👋
 
 **Cloud Engineer | AWS Certified Cloud Practitioner | Network Engineer**
 
@@ -8,7 +8,7 @@ I'm a network engineer with 3+ years of experience in enterprise VPN, connectivi
 
 - Preparing for the **AWS Solutions Architect Associate** exam
 - Building hands-on AWS projects (EC2, S3, VPC, IAM)
-- Practicing DevOps foundations: Git, GitHub, Docker, Shell scripting
+- Practising DevOps foundations: Git, GitHub, Docker, Shell scripting
 
 ## 🛠️ Skills
 
